@@ -1,5 +1,7 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: "Ajulu's Thoughts is a blog about Technology, Cybersecurity, Personal Development
+    and Other Probably Biased Reviews \U0001F601"
+  maxWidthPX: "652"
+
 ---
