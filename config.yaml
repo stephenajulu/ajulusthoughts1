@@ -1,11 +1,11 @@
-baseURL: "https://example.com"
+baseURL: "https://blog.stephenajulu.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Stephen Ajulu's Blog"
 pygmentsstyle: 'monokai'
 
 # Theme settings
 theme: novela
-paginate: 6
+paginate: 7
 social:
   twitter: "#"
   github: "#"
