@@ -10,6 +10,9 @@ url = "https://www.facebook.com/stephenajulu"
 title = "My Instagram Profile"
 url = "https://www.instagram.com/stephenajulu"
 [[social]]
+title = "My Tweets"
+url = "https://twitter.com/stephenajulu"
+[[social]]
 title = "My LinkedIn Profile"
 url = "https://www.linkedin.com/in/stephenajulu/"
 [[social]]
@@ -18,8 +21,5 @@ url = "https://github.com/stephenajulu/"
 [[social]]
 title = "My Medium Posts"
 url = "https://medium.com/@stephenajulu"
-[[social]]
-title = "My Tweets"
-url = "https://twitter.com/stephenajulu"
 
 +++
