@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/10-internet-safety-rules.md
 - content/post/young-kenyan-hackers-making-money-illegally-by-targeting-banks.md
