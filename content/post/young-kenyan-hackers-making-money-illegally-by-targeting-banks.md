@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Stephen Ajulu"]
 date = 2020-02-18T04:00:00Z
 excerpt = "A look into why young techies are turning into hackers and are targeting financial organizations"
 hero = "/images/photodune-21732180-diverse-computer-hacking-shoot-bw.jpg"
