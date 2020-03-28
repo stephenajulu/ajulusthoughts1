@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/young-kenyan-hackers-making-money-illegally-by-targeting-banks.md
