@@ -1,12 +1,13 @@
 +++
 authors = []
 date = 2020-02-18T04:00:00Z
-excerpt = "A quick look into how and possibly why young Kenyan techies and nerds are turning into black hat hackers and are targeting financial organizations e.g banks. Hint? This problem stems from the lack of job opportunities and security for the youth especially those in the I.T industry in Kenya."
+excerpt = "A look into why young Kenyan techies are turning into black hat hackers and are targeting financial organizations"
 hero = "/images/photodune-21732180-diverse-computer-hacking-shoot-bw.jpg"
 timeToRead = 10
 title = "Young Kenyan Hackers Making Money Illegally By Targeting Banks"
 
 +++
+
 Technology is making life easier for everyone while opening up opportunities never before known to man, especially from the developing world.
 
 But with the world now being a global village, thanks to the internet, so much has been opened up and this is minting millionaires left right and centre as long as they are strategically placed for the opportunities coming their way.
