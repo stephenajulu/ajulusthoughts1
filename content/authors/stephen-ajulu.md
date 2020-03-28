@@ -4,6 +4,9 @@ bio = "Hi there!\nMy Name is Stephen Ajulu.\nI am a Front End Web Developer, Eth
 featured = true
 title = "Stephen Ajulu"
 [[social]]
+title = "My Youtube Channel"
+url = "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
+[[social]]
 title = "My Facebook Profile"
 url = "https://www.facebook.com/stephenajulu"
 [[social]]
