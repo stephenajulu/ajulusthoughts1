@@ -4,9 +4,6 @@ bio = "Hi there!\nMy Name is Stephen Ajulu.\nI am a Front End Web Developer, Eth
 featured = true
 title = "Stephen Ajulu"
 [[social]]
-title = "My Medium Posts"
-url = "https://medium.com/@stephenajulu"
-[[social]]
 title = "My Facebook Profile"
 url = "https://www.facebook.com/stephenajulu"
 [[social]]
@@ -18,5 +15,11 @@ url = "https://www.linkedin.com/in/stephenajulu/"
 [[social]]
 title = "My GitHub Repositories"
 url = "https://github.com/stephenajulu/"
+[[social]]
+title = "My Medium Posts"
+url = "https://medium.com/@stephenajulu"
+[[social]]
+title = "My Tweets"
+url = "https://twitter.com/stephenajulu"
 
 +++
