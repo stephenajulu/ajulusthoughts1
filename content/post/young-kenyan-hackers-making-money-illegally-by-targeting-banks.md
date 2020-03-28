@@ -7,6 +7,7 @@ timeToRead = 3
 title = "Young Kenyan Hackers Targeting Banks"
 
 +++
+.
 
 Technology is making life easier for everyone while opening up opportunities never before known to man, especially from the developing world.
 
