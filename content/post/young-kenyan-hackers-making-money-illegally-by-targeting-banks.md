@@ -7,6 +7,7 @@ timeToRead = 3
 title = "Young Kenyan Hackers Targeting Banks"
 
 +++
+
 Technology is making life easier for everyone while opening up opportunities never before known to man, especially from the developing world.
 
 But with the world now being a global village, thanks to the internet, so much has been opened up and this is minting millionaires left right and centre as long as they are strategically placed for the opportunities coming their way.
