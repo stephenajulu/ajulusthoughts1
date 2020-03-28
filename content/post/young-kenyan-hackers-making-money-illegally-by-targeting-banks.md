@@ -23,7 +23,7 @@ The paper reports that several banks in Kenya switched off their local area netw
 
 In the coordinated move, the institutions were acting on information that tech-savvy crooks were planning to raid several banks then. The banks did not want to leave anything to chance and so they limited access to internal servers paralyzing any outsider who would have tried to penetrate the system.
 
-It is during that period that Barclays Bank lost Sh11 million from their ATMs.
+It is during that period that Barclays Bank lost Sh11 million from their ATM's.
 
 **Estates for Tech-Savvy Millionaires**
 
