@@ -11,7 +11,7 @@ title = "Young Kenyan Hackers Targeting Banks"
 
 Technology is making life easier for everyone while opening up opportunities never before known to man, especially from the developing world.
 
-But with the world now being a global village, thanks to the internet, so much has been opened up and this is minting millionaires left right and centre as long as they are strategically placed for the opportunities coming their way.
+But with the world now being a global village, thanks to the internet, so much has been opened up and this is minting millionaires left right and center as long as they are strategically placed for the opportunities coming their way.
 
 In Kenya, life has been hard for a while forcing Kenyans to be innovative to deal with the financial challenges bombarding them. With the government having killed the sun for the majority of youth who are jobless, it is now these young men and women who are creating their own parallel world to beat the system that has conspired against their success.
 
@@ -21,7 +21,7 @@ In a report appearing in The Standard, with the advancement in technology, even 
 
 The paper reports that several banks in Kenya switched off their local area networks (LAN) during last year’s Easter holidays.
 
-In the coordinated move, the institutions were acting on information that tech-savvy crooks were planning to raid several banks then. The banks did not want to leave anything to chance and so they limited access to internal servers paralysing any outsider who would have tried to penetrate the system.
+In the coordinated move, the institutions were acting on information that tech-savvy crooks were planning to raid several banks then. The banks did not want to leave anything to chance and so they limited access to internal servers paralyzing any outsider who would have tried to penetrate the system.
 
 It is during that period that Barclays Bank lost Sh11 million from their ATMs.
 
