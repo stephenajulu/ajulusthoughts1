@@ -12,13 +12,5 @@ social:
   url: https://www.instagram.com/stephenajulu
 - title: Twitter
   url: https://twitter.com/stephenajulu
-- title: LinkedIn
-  url: https://www.linkedin.com/in/stephenajulu/
-- title: Youtube
-  url: https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber
-- title: Github
-  url: https://github.com/stephenajulu/
-- title: Medium
-  url: https://medium.com/@stephenajulu
 
 ---
