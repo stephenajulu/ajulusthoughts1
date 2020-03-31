@@ -7,12 +7,6 @@
         text-anchor: middle;
         font-family: Universe-Display, Universe;
       }
-      @media (prefers-color-scheme: dark) {
-        font-size: 2400px;
-        fill: black;
-        text-anchor: middle;
-        font-family: Universe-Display, Universe;
-     }
     </style>
   </defs>
   <text id="A" class="cls-1" x="148" y="-4"><tspan x="148">A</tspan></text>
