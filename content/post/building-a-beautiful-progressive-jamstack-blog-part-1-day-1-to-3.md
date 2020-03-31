@@ -17,7 +17,7 @@ Choose The Best Static Site Generator. Weigh Pros and Cons. Research.
 
 * **_Choice 1: Jekyll_** – Built on Ruby on Rails, Very Good Community, Extensive Knowledge, Used and Endorsed by [**GitHub**](https://github.com), Very Slow Build. Not good with large blogs(over 30 posts) due to slow build time. Hence not suitable.  
   ❌
-* **_Choice 2: Gatsby_** – Built on React, GraphQl and Webpack, Excellent Community, Lack of Sufficient Knowledge, Used and Endorsed by [**Contentful**](https://contentful.com), Lighting Fast Build, Good With Everything, But Not Suitable Due To Time Constraint. However Further Research to Be Done For Future Purposes.   
+* **_Choice 2: Gatsby_** – Built on React, GraphQl and Webpack, Excellent Community, Lack of Sufficient Knowledge, Used and Endorsed by [**Contentful**](https://contentful.com), Lighting Fast Build, Good With Everything, But Not Suitable Due To Time Constraint. However Further Research to Be Done For Future Purposes.  
   ✖️
 * **_Choice 3: Hugo_** – Built on Go, Excellent Community, Sufficient Knowledge, Used and Endorsed by [**Forestry.io**](https://forestry.io), Fast Build, Very Good for Big Blogs, In fact its Built for Large Websites and Blogs.  
   ✔️
@@ -46,7 +46,7 @@ Choose The Best Static Site Generator. Weigh Pros and Cons. Research.
 * Research
 * **End of Day 3**
 
-Now you are up to date.   
+Now you are up to date.  
 The reason i documented my process here is so that anyone can learn.  
 I am a crappy dev, i don’t know as much js as i wish i knew.  
 But i believe we all have something to learn from each other.  
@@ -76,13 +76,11 @@ Once all the steps are done, the blog should be able to be installed (like a nat
 
 A **progressive web application** is just a website that behaves like a native app(like the ones installed from google play store). Thanks to a service worker, the website can be accessed online because the sw caches the site. It can be installed upon visiting the website, you’ll either see a pop-up(thanks to the Add to Homescreen script) or see a home icon with a plus on it(if Firefox). Progressive Web Apps are faster than any website you’ve seen because of the cache feature. This new blog uses a headless cms: [**Forestry.io**](https://forestry.io)
 
-  
 Those things left should take 2 days. I run into a bit of a hiccup, an issue with the blog that needs to be fixed. Already submitted an issue via github, so it should be resolved by tomorrow. It’s the reason i didn’t complete the process today. I can’t add the scripts to the head and body section because i forgot to include the “layouts/partials/head.html” and “layouts/index.md”  
 I also forgot, I’ll be adding a newsletter section to every page but that’s until the above issues are fixed.
 
 To experience PWAs, visit this link: [**https://tomango.co.uk**](https://tomango.co.uk "https://tomango.co.uk")
 
-  
 Static Site Generators, Headless CMS, JAMstack, Progressive Web Applications and Serverless are the Future!Why?
 
 * Cost effective
@@ -92,14 +90,13 @@ Static Site Generators, Headless CMS, JAMstack, Progressive Web Applications and
 * Feature Rich
 * Can increase engagement way more than native apps and traditional websites
 
-  
 For security and even faster speeds, I have passed it through Cloudflare and enabled all of Netlify’s asset optimization. The site isn’t as fast as it should be due to the fact that i haven’t added the service worker register.
 
 #### 
 
 Also note PWAs don’t have a good desktop support yet, only Desktop Chromiums(Chrome, Brave, Opera etc) support PWAs(according to my tests, Firefox is yet to release an update with support but PWAs are fully supported by Android, Smart TVs, Smart Watches, KAIOS, Linux, Chrome OS and such. PWAs can also be uploaded to all the stores (Google Play, Microsoft, KAIOS Stores and among others)
 
-### PageSpeed Insights FOR blog.stephenajulu.com
+### PageSpeed Insights For blog.stephenajulu.com
 
 **_Mobile Score_ : 96**  
 TTT, First Meaningful Paint, First Contentful Paint, First CPU idle: 2 seconds  
@@ -114,7 +111,7 @@ Sadly Day 4 will start tomorrow as i am working on fixing the hiccup we encounte
 
 ![](https://ajulusthoughts.files.wordpress.com/2020/03/screenshot_2020-03-31-stephen-ajulus-blog-full.jpg?w=160)
 
-### TABLET SCREENSHOT
+### Tablet Screenshot
 
 ![](https://ajulusthoughts.files.wordpress.com/2020/03/screenshot_2020-03-31-stephen-ajulus-blog-tablet.png?w=105)
 
