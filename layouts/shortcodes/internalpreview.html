@@ -9,8 +9,8 @@
         {{ $originalImg := $page.Resources.GetMatch $original }}
         {{ if $originalImg }}
             {{ $thumbnailImg := $originalImg.Fit "200x100" }}
-            {{ printf `<img src="%s" alt="%s">` 
-                $thumbnailImg.RelPermalink $page.Title | safeHTML }}
+            {{ printf `<img src="%s" alt="%s">` }}
+               {{ $thumbnailImg.RelPermalink $page.Title | safeHTML }}
         {{end}}
     {{end}}
     </div>
