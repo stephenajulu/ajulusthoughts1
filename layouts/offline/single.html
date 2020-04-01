@@ -1,0 +1,16 @@
+<html>
+ <head>
+  <title>{{ .Title }}</title>
+ </head>
+ <body>
+ 
+ {{ define "main" }}
+
+{{ partial "articles/hero.html" . }}
+
+{{ end }}
+
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+ </body>
+</html>
