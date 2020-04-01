@@ -1,7 +1,6 @@
 ---
-title = "Oops, you are offline."
-type = "offline"
+title: Oops, You are Offline
 ---
 
 You should try to find some internet connection to browse here.
-You can visit the pages you have previously visited
+Meanwhile You can visit the pages you have previously visited
