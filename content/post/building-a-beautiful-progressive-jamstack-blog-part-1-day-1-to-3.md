@@ -105,27 +105,13 @@ TTT, First Meaningful Paint, First Contentful Paint, First CPU idle: 0.7 seconds
 **_Our Goal is 98 or 99_**  
 Sadly Day 4 will start tomorrow as i am working on fixing the hiccup we encountered myself, no response on the issue.
 
-## Click/Doubleclick/Rightclick These Images To Get A Full Screen View
-
-### Desktop/Laptop Screenshot
-
-![](https://ajulusthoughts.files.wordpress.com/2020/03/screenshot_2020-03-31-stephen-ajulus-blog-full.jpg?w=160)
-
-### Tablet Screenshot
-
-![](https://ajulusthoughts.files.wordpress.com/2020/03/screenshot_2020-03-31-stephen-ajulus-blog-tablet.png?w=105)
-
-### Phone Screenshot
-
-![](https://ajulusthoughts.files.wordpress.com/2020/03/screenshot_2020-03-31-stephen-ajulus-blog-phone.png?w=27)
-
 ### [**Ajulu’s Thoughts**](https://ajulusthoughts.wordpress.com) – Delivering Quality Tech, Cybersecurity & Dev Content Since November 2016
 
 Hey Devs? Found anything wrong with this info? Kindly write your comment down below on what to change.
 
 I will appreciate it, if you take 10 seconds of your time to check out my donations page and donate to the blog and other causes. 40% of the donation goes to buying this blog an official domain name, the rest goes to charity eg supporting children homes. Any amount received will be shown, from whom and to where it went. I will also include screenshots of inflow and outflow. So go check it out: [**Donations**](https://ajulusthoughts.wordpress.com/donate/) and donate! You can also buy me something via the wishing list. Thank you and have a wonderful day.
 
-[![](https://ajulusthoughts.files.wordpress.com/2020/02/my-post38.png?w=1024)](https://owlsectechnologies.co.ke)OwlSec Technologies design and develop fast, secure and search engine optimized progressive websites that use JAMstack or CMS based technologies e.g WordPress, Drupal and more. Making sure a business or individual has not just an online presence but also a lead generation strategy.  
+OwlSec Technologies design and develop fast, secure and search engine optimized progressive websites that use JAMstack or CMS based technologies e.g WordPress, Drupal and more. Making sure a business or individual has not just an online presence but also a lead generation strategy.  
 Get a quote: [**info@owlsectechnologies.co.ke**](mailto:info@owlsectechnologies.co.ke)  
 Visit our website: [**owlsectechnologies.co.ke**](https://owlsectechnologies.co.ke)
 
