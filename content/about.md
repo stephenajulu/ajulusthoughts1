@@ -2,12 +2,17 @@
 title: About
 ---
 
-Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
 
-Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Hey everyone. My name is Stephen Ajulu. I am the founder and lead writer of Ajulu’s Thoughts.
 
-Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+I am also an Tech Consultant, Front End Web Developer(and Designer), Student, Researcher and Cybersecurity Enthusiast. I have founded/co-founded several companies i.e. OwlSec Technologies, Quevant e-Store, Alusa SS Investment, Biom.me among others.
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+I created this blog because 1) I’ve always had a passion for learning 2) I have always loved sharing knowledge and teaching others 3) I wanted to build my personal brand
+
+You can check out my personal website for more info: https://stephenajulu.com
+
+This blog focuses on Tech, Cybersecurity, Web Development, Machine Learning, Blockchain, Cryptocurrencies, Personal Development News and Trends in order to inspire, encourage and teach my readers on the same. There’s also the usual “biased” reviews 😂. Email me if you have something i should have a look at(topics, products, services) and subscribe to my newsletter
+
+Email: ajulu@stephenajulu.com
 
 {{< subscribe email="alunje73@gmail.com" >}}
