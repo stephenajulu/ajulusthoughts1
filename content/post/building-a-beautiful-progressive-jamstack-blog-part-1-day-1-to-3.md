@@ -120,3 +120,5 @@ Visit our website: [**owlsectechnologies.co.ke**](https://owlsectechnologies.co.
 {{ partial "share-buttons.html" . }}
 
 {{< subscribe email="ajulu@stephenajulu" >}}
+
+{{< partial "share-buttons.html" >}}
