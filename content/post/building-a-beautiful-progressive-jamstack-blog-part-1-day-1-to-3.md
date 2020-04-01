@@ -119,6 +119,6 @@ Visit our website: [**owlsectechnologies.co.ke**](https://owlsectechnologies.co.
 
 {{<relativelink "/post/the-8-phases-of-cyber-security-testing/" >}}
 
-{{< partial "share-button.html" >}}
+{{< partial "share-buttons.html" >}}
 
 {{< subscribe email="ajulu@stephenajulu" >}}
