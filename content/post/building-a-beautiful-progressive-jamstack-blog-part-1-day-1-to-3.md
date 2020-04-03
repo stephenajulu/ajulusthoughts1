@@ -131,7 +131,7 @@ issue-term="pathname"
 
 label="Comment" 
 
-theme="photon-dark" 
+theme="github-light" 
 
 crossorigin="anonymous" async>
 
