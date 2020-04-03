@@ -14,3 +14,27 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+outputs:
+  home:
+    - "html"
+    - "rss"
+    - "jsonfeed"
+  section:
+    - "html"
+    - "rss"
+    - "jsonfeed"
+  taxonomy:
+    - "html"
+    - "rss"
+    - "jsonfeed"
+  taxonomyTerm:
+    - "html"
+    - "rss"
+    - "jsonfeed"
+
+outputFormats:
+  jsonfeed:
+    mediaType: "application/json"
+    baseName: "feed"
+    isPlainText: true
+
