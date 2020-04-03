@@ -120,14 +120,29 @@ Visit our website: [**owlsectechnologies.co.ke**](https://owlsectechnologies.co.
 {{< subscribe email="ajulu@stephenajulu" >}}
 
 {{< rawhtml >}}
+
 <p>
-<script src="https://utteranc.es/client.js"
-repo="stephenajulu/ajulusthoughts1"
-issue-term="pathname"
-label="Comment"
-theme="photon-dark"
-crossorigin="anonymous"
-async>
-</script>
+
+<a href="https://www.addtoany.com/share#url={{ .Permalink }}{{ with .Title }}&title={{ . }}{{ end }}" target="_blank" rel="nofollow noopener">{{ T "share" }}</a>
+
 </p>
+
+<p>
+
+<script src="https://utteranc.es/client.js" 
+
+repo="stephenajulu/ajulusthoughts1" 
+
+issue-term="pathname" 
+
+label="Comment" 
+
+theme="photon-dark" 
+
+crossorigin="anonymous" async>
+
+</script>
+
+</p>
+
 {{< /rawhtml >}}
