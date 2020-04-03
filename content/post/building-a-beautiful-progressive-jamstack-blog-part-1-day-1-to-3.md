@@ -123,12 +123,6 @@ Visit our website: [**owlsectechnologies.co.ke**](https://owlsectechnologies.co.
 
 <p>
 
-<a href="https://www.addtoany.com/share#url={{ .Permalink }}{{ with .Title }}&title={{ . }}{{ end }}" target="_blank" rel="nofollow noopener">{{ T "share" }}</a>
-
-</p>
-
-<p>
-
 <script src="https://utteranc.es/client.js" 
 
 repo="stephenajulu/ajulusthoughts1" 
