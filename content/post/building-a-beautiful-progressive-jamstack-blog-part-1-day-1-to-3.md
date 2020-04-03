@@ -134,6 +134,4 @@ async>
 
  {{< /rawhtml >}}
 
-# 
-
 {{< subscribe email="ajulu@stephenajulu" >}}
