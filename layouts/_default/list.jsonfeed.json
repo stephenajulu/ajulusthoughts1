@@ -12,8 +12,8 @@
     "home_page_url": "{{ .Permalink}}",
     "feed_url": "{{ .Permalink }}feed.json",
 	"author": {
-		"name": "{{ .author.name }}",
-		"url": "{{ .author.URL }}"
+		"name": "{{ .Site.Author.name }}",
+		"url": "{{ .Site.Author.URL }}"
     },
     "items": [
         {{ range $index, $pages := $pages }}
