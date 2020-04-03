@@ -117,8 +117,4 @@ Visit our website: [**owlsectechnologies.co.ke**](https://owlsectechnologies.co.
 
 # **SOURCE:** [**AJULU'S THOUGHTS**](https://ajulusthoughts.wordpress.com/2020/03/31/building-a-beautiful-progressive-jamstack-blog-part-1/)
 
-{{< relativelink "/post/the-8-phases-of-cyber-security-testing/"  >}}
-
-{{< partial "share.html" >}}
-
 {{< subscribe email="ajulu@stephenajulu" >}}
