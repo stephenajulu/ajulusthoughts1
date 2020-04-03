@@ -117,21 +117,17 @@ Visit our website: [**owlsectechnologies.co.ke**](https://owlsectechnologies.co.
 
 # **SOURCE:** [**AJULU'S THOUGHTS**](https://ajulusthoughts.wordpress.com/2020/03/31/building-a-beautiful-progressive-jamstack-blog-part-1/)
 
-{{< rawhtml >}} 
+{{< subscribe email="ajulu@stephenajulu" >}}
 
+{{< rawhtml >}}
 <p>
-
 <script src="https://utteranc.es/client.js"
 repo="stephenajulu/ajulusthoughts1"
 issue-term="pathname"
 label="Comment"
-theme="github-dark"
+theme="photon-dark"
 crossorigin="anonymous"
 async>
 </script>
-
 </p>
-
- {{< /rawhtml >}}
-
-{{< subscribe email="ajulu@stephenajulu" >}}
+{{< /rawhtml >}}
