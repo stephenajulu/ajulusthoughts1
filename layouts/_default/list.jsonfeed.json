@@ -8,12 +8,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "{{ .Site.Title }}",
-	"description": "{{ .Params.description }}",
+	"description": "Ajulu's Blog is a Place Where You Can Get Informative Tech, Cybersecurity, Dev, Blockchain and Other Related Content",
     "home_page_url": "{{ .Permalink}}",
     "feed_url": "{{ .Permalink }}feed.json",
 	"author": {
-		"name": "{{ .Site.Author.name }}",
-		"url": "{{ .Site.Author.URL }}"
+		"name": "Stephen Ajulu",
+		"url": "https://blog.stephenajulu.com/authors/stephen-ajulu/"
     },
     "items": [
         {{ range $index, $pages := $pages }}
