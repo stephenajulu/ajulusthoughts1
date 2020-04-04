@@ -3,7 +3,7 @@ authors = ["stephen-ajulu"]
 date = 2020-03-31T15:25:00Z
 excerpt = "Hey guys? Today we will be building a beautiful, fast, SEO optimized, progressive JAMstack blog for free. Step by step."
 hero = "/images/Screenshot_2020-03-31 Stephen Ajulu's Blog.png"
-timeToRead = 3
+timeToRead = 5
 title = "Building a Beautiful Progressive JAMstack Blog Part 1: Day 1 to 3"
 
 +++
