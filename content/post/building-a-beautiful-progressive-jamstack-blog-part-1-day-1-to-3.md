@@ -140,3 +140,5 @@ crossorigin="anonymous" async>
 </p>
 
 {{< /rawhtml >}}
+
+{{< partial "share.html" >}}
