@@ -2,12 +2,12 @@
 authors = ["Stephen Ajulu"]
 date = 2020-03-28T06:55:00Z
 excerpt = "10 Simple Anonymity Rules and Tips to Follow"
-hero = "/images/anonymity.jpg"
+hero = "/images/anonymity.webp"
 timeToRead = 1
 title = "10 Anonymity Rules"
 
 +++
- 1. Use Tor (Encrypted Browser, Proxy and Protocol).
+1. Use Tor (Encrypted Browser, Proxy and Protocol).
  2. Use Tails (Secure OS).
  3. Use Signal (Secure Messaging App).
  4. Use Burner Emails.
