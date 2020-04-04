@@ -2,7 +2,7 @@
 authors = ["Stephen Ajulu"]
 date = 2020-03-28T06:59:00Z
 excerpt = "Unlike the previous post: The 5 Phases Of Hacking. This procedure mostly resonates with cybersecurity professionals and/or ethical hackers"
-hero = "/images/vmware-trustpoint-cybersecurity-threats.jpg"
+hero = "/images/vmware-trustpoint-cybersecurity-threats.webp"
 timeToRead = 3
 title = "The 8 Phases of Cyber Security Testing"
 
