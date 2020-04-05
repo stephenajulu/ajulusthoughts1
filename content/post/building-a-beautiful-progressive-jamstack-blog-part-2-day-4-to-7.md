@@ -58,30 +58,7 @@ Now to the good relationship i have discovered between hugo shortcodes and fores
 
 As you can see for every shortcode there’s a snippet, that’s because shortcodes usually have a small piece of code to embed in the page you want it to be activated.
 
-An example is this.
-
-    {{/* DEFAULTS */}}
-    {{ $user    := "stephenajulu" }}
-    {{ $height  := 700 }}
-    {{ $tab     := "result" }}{{/* html|css|js|result */}}
-    {{ $theme   := 8862 }}{{/* create on codepen.io */}}
-    
-    
-    <script
-        data-slug-hash="{{ .Get "id" }}"
-        data-user="{{ or (.Get "user") $user }}"
-        data-height="{{ or (.Get "height") $height }}"
-        data-default-tab="{{ or (.Get "tab") $tab }}"
-        data-theme-id="{{ or (.Get "theme") $theme }}"
-        class='codepen'
-        async
-        src="//codepen.io/assets/embed/ei.js"
-    ></script>
-    
-    
-    
-    
-    {{< codepen id="add last part of codepen url" >}}
+![](/images/Annotation 2020-04-05 164626.jpg)
 
 So the first piece of code goes to the /layouts/shortcodes/shortcodename.html while the last one goes to .forestry/snippets/snippetname.snippet. This ensures that i don’t have to copy the last code everywhere manually, i just access them within forestry cms’s ui like this
 
