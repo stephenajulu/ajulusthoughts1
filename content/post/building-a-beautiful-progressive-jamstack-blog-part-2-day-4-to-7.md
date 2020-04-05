@@ -78,12 +78,11 @@ An example is this.
         src="//codepen.io/assets/embed/ei.js"
     ></script>
 
-| --- | --- |
-| 1 | {{< codepen id="add last part of codepen url" >}} |
-
     {{< codepen id="add last part of codepen url" >}}
 
 So the first piece of code goes to the /layouts/shortcodes/shortcodename.html while the last one goes to .forestry/snippets/snippetname.snippet. This ensures that i don’t have to copy the last code everywhere manually, i just access them within forestry cms’s ui like this
+
+{{% youtube "M-P0lVXehWM" %}}
 
 So now instead of copying the shortcode link everywhere you can just add it as a forestry cms snippet and use it where you would like. Note: This only works if you use Forestry CMS
 
