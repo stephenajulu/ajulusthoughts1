@@ -79,6 +79,8 @@ An example is this.
     ></script>
     
     
+    
+    
     {{< codepen id="add last part of codepen url" >}}
 
 So the first piece of code goes to the /layouts/shortcodes/shortcodename.html while the last one goes to .forestry/snippets/snippetname.snippet. This ensures that i don’t have to copy the last code everywhere manually, i just access them within forestry cms’s ui like this
