@@ -60,8 +60,6 @@ As you can see for every shortcode there’s a snippet, that’s because shortco
 
 An example is this.
 
-    {{< highlight >}}
-
     {{/* DEFAULTS */}}
     {{ $user    := "stephenajulu" }}
     {{ $height  := 700 }}
@@ -82,8 +80,6 @@ An example is this.
     
     
     {{< codepen id="add last part of codepen url" >}}
-
-    {{< / highlight >}}
 
 So the first piece of code goes to the /layouts/shortcodes/shortcodename.html while the last one goes to .forestry/snippets/snippetname.snippet. This ensures that i don’t have to copy the last code everywhere manually, i just access them within forestry cms’s ui like this
 
