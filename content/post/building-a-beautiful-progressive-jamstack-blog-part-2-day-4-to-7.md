@@ -62,7 +62,11 @@ As you can see for every shortcode there’s a snippet, that’s because shortco
 
 So the first piece of code goes to the /layouts/shortcodes/shortcodename.html while the last one goes to .forestry/snippets/snippetname.snippet. This ensures that i don’t have to copy the last code everywhere manually, i just access them within forestry cms’s ui like this
 
-{{% youtube "M-P0lVXehWM" %}}
+{{< rawhtml >}}
+<p>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/M-P0lVXehWM](https://www.youtube.com/embed/M-P0lVXehWM "https://www.youtube.com/embed/M-P0lVXehWM")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+{{< /rawhtml >}}
 
 So now instead of copying the shortcode link everywhere you can just add it as a forestry cms snippet and use it where you would like. Note: This only works if you use Forestry CMS
 
