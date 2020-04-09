@@ -7,7 +7,7 @@ timeToRead = 12
 title = "Basic Data Security"
 
 +++
-## What is Data Security?
+## WHAT IS DATA SECURITY?
 
 is the process of keeping data secure and protected from not only unauthorized access but also corrupted access. The main focus of data security is to make sure that data is safe and away from any destructive forces. Data is stored as rows and columns in its raw form in the databases, PCs as well as over networks. While some of this data may be not that secretive, other might be of private value and importance. But unauthorized access to such private information or data can cause many problems such as corruption, leakage of confidential information and violation of privacy.
 
@@ -41,7 +41,7 @@ Not every virus out there is out to destroy your computer or encrypt it. Some tr
 
 ## 7. GOOD BROWSING PRACTICES
 
-You wont believe how many people download viruses willingly(but unknowingly). The no 1 culprit? Cracked and/or Pirated Games and Software. Trust me i know. I have done it way more times than am willing to admit. Especially with games. But what people don’t get is that there’s always a catch. To crack that software, someone needs to buy it first. They then need to invest time cracking it. And as obvious not everyone can crack a game or software, only programmers and guess what? most hackers are programmers! You cant know how to hack without knowing how to program unless you are a script kiddie and it is highly unlikely that script kiddies can crack software. To hack something you need to know the insides and outsides of something. I am one**(**[**a good one**](https://ajulusthoughts.wordpress.com/2019/01/05/types-of-hackers-which-hat-fits-you/)**)**, i know. So i understand no matter how many warnings people give, many of us can never truly give up this habit. So i am your guy. Try virtualization. Download whatever cracked game on a virtual machine. Scan it with as many anti viruses as possible, then move it to your host PC, or just get a virtual machine lock it down and play the games there or try sand boxing it. Also one can be hacked even without downloading things so be careful. Don’t enter sites that seem off or dangerous. Try browsing with Tor or Firefox. Check this guide on how to browse securely and safely: [**The Wonderful 3s: Privacy, Security and Anonymity**](https://ajulusthoughts.wordpress.com/2019/01/01/privacy-anonymity-and-security-the-wonderful-threes/).
+You wont believe how many people download viruses willingly(but unknowingly). The no 1 culprit? Cracked and/or Pirated Games and Software. Trust me i know. I have done it way more times than am willing to admit. Especially with games. But what people don’t get is that there’s always a catch. To crack that software, someone needs to buy it first. They then need to invest time cracking it. And as obvious not everyone can crack a game or software, only programmers and guess what? most hackers are programmers! You cant know how to hack without knowing how to program unless you are a script kiddie and it is highly unlikely that script kiddies can crack software. To hack something you need to know the insides and outsides of something. I am one**([**a good one**](https://ajulusthoughts.wordpress.com/2019/01/05/types-of-hackers-which-hat-fits-you/))**, i know. So i understand no matter how many warnings people give, many of us can never truly give up this habit. So i am your guy. Try virtualization. Download whatever cracked game on a virtual machine. Scan it with as many anti viruses as possible, then move it to your host PC, or just get a virtual machine lock it down and play the games there or try sand boxing it. Also one can be hacked even without downloading things so be careful. Don’t enter sites that seem off or dangerous. Try browsing with Tor or Firefox. Check this guide on how to browse securely and safely: [**The Wonderful 3s: Privacy, Security and Anonymity**](https://ajulusthoughts.wordpress.com/2019/01/01/privacy-anonymity-and-security-the-wonderful-threes/).
 
 ## 8. DATA DISPOSAL
 
@@ -71,7 +71,7 @@ I mean literally drill holes in them, burn them, break the disks, microwave it, 
 
 </p>
 
- {{< /rawhtml >}}
+{{< /rawhtml >}}
 
 ## 9. AUTHENTICATE AND AUTHORIZE
 
@@ -104,6 +104,26 @@ You’d be surprised by how much information one can gather online especially in
 There are literally thousands of tutorials out there teaching people how to hack, and this is not necessarily bad. Actually it’s good. But with this comes people interested in hacking for fun, thrill and profit. Keep the information you share to a minimum.
 
 Get some exif data cleaner software that can wipe your images of metadata such as location. I wrote an article on Metadata. Go check why it is important, how hackers can use them for harm and how to prevent security risks arising from them: [**Metadata: Data about Data**](https://ajulusthoughts.wordpress.com/2019/07/01/data-about-data-metadata/). It is important to keep the data you share on social media to a minimum unless absolutely necessary. Also check out this other post by Veronica Rose over at [**Techknow**](https://techknow.co.ke): [**Data Privacy Day – 2020**](https://techknow.co.ke/2020/01/26/data-privacy-day-2020/).
+
+## 16. HAVE AN INCIDENT RESPONSE PLAN
+
+When reputation, revenue, and customer trust is at stake, it’s critical that an organization can identify and respond to security incidents and events. Whether a breach is small or large, organizations need to have an incident response plan in place to mitigate the risks of being a victim of the latest cyber-attack.
+
+Incident response strategies and plans layout what defines a breach, the roles and responsibilities of the security team, tools for managing a breach, steps that will need to be taken to address a security incident, how the incident will be investigated and communicated, and the notification requirements following a data breach.
+
+The faster your organization can detect and respond to a data breach or even security incidents the less likely it will have a significant impact on your data, customer trust, reputation, and a potential loss in revenue. If your organization doesn’t have an incident response process in place, consider leveraging a third-party managed security services provider to implement a customized approach for your business.
+
+###### To avoid all of this, an incident response plan should be developed that includes the following actions:
+
+* Have a quality monitoring system in place
+* Identify the potential incident
+* Respond to the incident in a timely manner
+* Assess the situation, analyzing the severity of the incident
+* Notify the appropriate parties about the incident
+* Take appropriate measures to protect sensitive data and minimize impact
+* Organize, prioritize and escalate the incident response activities accordingly
+* Prepare for adequate business recovery support in the wake of any damage caused in the interim
+* Review process, making necessary adjustments, to prevent future similar incidents and improve the way they’re handled
 
 Find an in depth security guide here: [**101 Data Protection Tips**](https://digitalguardian.com/blog/101-data-protection-tips-how-keep-your-passwords-financial-personal-information-safe)
 
