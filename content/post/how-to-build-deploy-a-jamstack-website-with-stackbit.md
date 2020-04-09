@@ -1,5 +1,5 @@
 +++
-authors = ["Stephen Ajulu"]
+authors = ["stephen-ajulu"]
 date = 2020-02-01T09:00:00Z
 excerpt = "Now you can build a modern and fast JAMstack website for free and without any web development skills. Learn more now"
 hero = "/images/stackbit-tuts-with-audio2_moment.webp"
