@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Stephen Ajulu"]
 date = 2020-02-24T09:00:00Z
 excerpt = "Offensive Security recently released Kali Nethunter for Unrooted/Nonrooted Android Device."
 hero = "/images/186a28551d84d22b06898818573b5be1.webp"
