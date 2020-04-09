@@ -43,6 +43,7 @@ fields:
 pages:
 - content/post/10-anonymity-rules.md
 - content/post/10-internet-safety-rules.md
+- content/post/basic-data-security.md
 - content/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3.md
 - content/post/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7.md
 - content/post/how-to-build-deploy-a-jamstack-website-with-stackbit.md
