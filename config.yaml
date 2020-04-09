@@ -1,10 +1,10 @@
 ---
-baseURL: https://blog.stephenajulu.com
+baseURL: /
 languageCode: en-us
 title: Stephen Ajulu's Blog
 pygmentsstyle: monokai
 theme: novela
-paginate: 7
+paginate: 10
 social:
   twitter: "#"
   github: "#"
