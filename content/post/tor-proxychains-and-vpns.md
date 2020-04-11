@@ -9,7 +9,7 @@ title = "Tor, Proxychains and VPNs"
 +++
 Hey guys! How are you doing? I am back with another post.
 
-Today i want to debunk, and explain how Tor and Proxy chains work. What they are. And how to truly become anonymous.
+Today i want to debunk, and explain how Tor and Proxy chains work. What they are. And how to truly become anonymous
 
 **Anonymity** is an interesting protective weapon, whether inside or outside the computer network. In this post I’ll introduce two basic tips on this topic using **Tor** and **Proxychains**, so come on!
 
