@@ -20,7 +20,6 @@ const BASE_CACHE_FILES = [
     'https://d33wubrfki0l68.cloudfront.net/js/7634703a2a7abab226c88189d3a8c61312a79457/js/togglelayout.js',
     'https://d33wubrfki0l68.cloudfront.net/js/54c3ca003a69aac3507e73847b2a8ff52d2cf00d/js/prism.js',
     'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
-    'https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js',
     'https://fonts.gstatic.com/s/merriweather/v21/u-440qyriQwlOrhSvowK_l5-fCZM.woff2',
     'https://d33wubrfki0l68.cloudfront.net/cb2921d6f3bb97974cff70d2913526cc8d399289/c2358/images/rsz_author.webp',
     'https://d33wubrfki0l68.cloudfront.net/a03a3339513e96e5d2b881320ad607e618a9893e/87955/images/screenshot_2020-03-31_20stephen_20ajulu_27s_20blog_e31928d93e0d53d288cde238ac72207d.webp',
