@@ -36,8 +36,7 @@ outputFormats:
   jsonfeed:
     mediaType: "application/json"
     baseName: "feed"
-    isPlainText: true
-    
+    isPlainText: true   
   rss:
     mediaType: "application/rss+xml"
     baseName: "feed"
