@@ -7,10 +7,9 @@ const BASE_CACHE_FILES = [
     '/post/resources-for-building-a-beautiful-progressive-jamstack-blog/',
     '/post//building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/',
     '/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/',
-    '/author/stephen-ajulu'
-    '/offline'
-    '/404.html'
-    '/search.json',
+    '/author/stephen-ajulu',
+    '/offline',
+    '/404.html',
     '/manifest.json',
     '/favicon.png',
     'https://d33wubrfki0l68.cloudfront.net/bundles/a36a4810339769a578b3ee442503fe2b6cb08166.css',
