@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Stephen Ajulu"]
 date = 2020-07-09T14:00:00Z
 excerpt = "Gone are the days Linux and Mac were the go to for development. Microsoft has leveled the playing field with WSL2. Today i would like to help you create a dev/hacking environment in Windows 10. So let's get started"
 hero = "/images/linux-windows.webp"
