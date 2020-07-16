@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-16T09:04:00Z
-draft = true
 excerpt = "Today we'll be building a simple affordable personal URL shortener using Github, Netlify and a short domain name."
 hero = "/images/blog-cover.webp"
 timeToRead = 3
