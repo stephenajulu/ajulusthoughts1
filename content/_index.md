@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Welcome to Ajulu's Thoughts - an Informative Tech Blog
+  heading: Ajulu's Thoughts
   maxWidthPX: "652"
 seo:
   image: "/images/hero.png"
