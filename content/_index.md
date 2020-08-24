@@ -1,7 +1,8 @@
 ---
 hero:
-  heading: Ajulu's Thoughts - a Tech, Cyber Sec and Dev Blog
-  maxWidthPX: "50"
+  heading: Welcome to Ajulu's Thoughts - an Informative Tech Blog
+  maxWidthPX: "652"
 seo:
-  image: /images/hero.png
+  image: "/images/hero.png"
+
 ---
