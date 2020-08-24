@@ -1,5 +1,5 @@
 //remember to increment the version # when you update the service worker
-const version = "17.00",
+const version = "16.00",
     preCache = "PRECACHE-" + version,
     cacheList = [ 
     "/",
